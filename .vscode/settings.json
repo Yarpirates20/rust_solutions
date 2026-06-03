@@ -1,0 +1,14 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.quickSuggestions": {
+
+        "other": "offWhenInlineCompletions",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "editor.wordBasedSuggestions": "offWithInlineSuggestions",
+    "editor.inlayHints.enabled": "on"
+}
